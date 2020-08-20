@@ -27,13 +27,13 @@ function setup() {
 	groundSprite=createSprite(width/2, height-35, width,10);
 	groundSprite.shapeColor=color(255)
 
-	line1=createSprite(270,580,20,100);
+	line1=createSprite(280,625,10,70);
 	line1.shapeColor=color("red");
 
-	line2=createSprite(450,580,20,100);
+	line2=createSprite(440,625,10,70);
 	line2.shapeColor=color("red");
 	
-	line3=createSprite(360,620,150,20);
+	line3=createSprite(360,655,150,10);
 	line3.shapeColor=color("red");
 
 
